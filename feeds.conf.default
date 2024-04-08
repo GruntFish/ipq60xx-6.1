@@ -10,4 +10,4 @@ src-git extras https://github.com/openwrt-ipq60xx/extras.git
 src-git sqm_scripts_nss https://github.com/rickkdotnet/sqm-scripts-nss.git
 #src-git kenzo https://github.com/kenzok8/openwrt-packages
 #src-git small https://github.com/kenzok8/small
-src-git smallpackeges https://github.com/Glunefish/small-package.git
+src-git smallpackeges https://github.com/Glunefish/small-package
